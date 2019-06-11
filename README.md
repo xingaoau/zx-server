@@ -1,1 +1,6 @@
-# bighunt node js server end point
+# How to use
+
+```
+ npm install
+ npm start
+```
